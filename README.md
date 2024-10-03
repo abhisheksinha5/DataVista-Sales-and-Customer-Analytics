@@ -89,7 +89,7 @@ Infosys Springboard Summer Internship Program 4.0
 
 ### ER Diagram
 
-> [Space for ER diagram image]
+![ER Diagram](https://github.com/abhisheksinha5/DataVista-Sales-and-Customer-Analytics/blob/main/Project%20Screenshots/ER%20Diagram.jpg)
 
 ### Week 3: Data Analysis Design and Implementation
 - Designed dashboards for additional data analysis features.
@@ -105,7 +105,21 @@ Infosys Springboard Summer Internship Program 4.0
 
 ## Project Implementation Screenshots
 
-> [Space for screenshots of welcome page, login page, and dashboards]
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+  <img src="https://github.com/abhisheksinha5/DataVista-Sales-and-Customer-Analytics/blob/main/Project%20Screenshots/Welcome%20Page.png" alt="Image 1" width="30%" />
+  
+  <img src="https://github.com/abhisheksinha5/DataVista-Sales-and-Customer-Analytics/blob/main/Project%20Screenshots/Login%20Page.png" alt="Image 2" width="30%" />
+
+  <img src="https://github.com/abhisheksinha5/DataVista-Sales-and-Customer-Analytics/blob/main/Project%20Screenshots/Dashboard%202.png" alt="Image 3" width="30%" />
+
+  <img src="https://github.com/abhisheksinha5/DataVista-Sales-and-Customer-Analytics/blob/main/Project%20Screenshots/Dashboard%201.png" alt="Image 4" width="30%" />
+  
+  <img src="https://github.com/abhisheksinha5/DataVista-Sales-and-Customer-Analytics/blob/main/Project%20Screenshots/Sales%20Manager%20Dashboard.png" alt="Image 5" width="30%" />
+
+  <img src="https://github.com/abhisheksinha5/DataVista-Sales-and-Customer-Analytics/blob/main/Project%20Screenshots/Team%20Member%20Dashboard.png" alt="Image 6" width="30%" />
+
+</div>
 
 ---
 
